@@ -1,0 +1,9 @@
+line-length = 100
+indent-width = 4
+
+[lint]
+preview = true
+select = ["E", "F", "Q"]
+
+[format]
+docstring-code-format = true
